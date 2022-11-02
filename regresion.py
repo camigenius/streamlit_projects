@@ -92,7 +92,7 @@ with st.container():
 
         st.altair_chart(fig)
 
-
+print('prueba')
 
 
 
